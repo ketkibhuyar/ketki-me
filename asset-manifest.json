@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ketki-me/static/css/main.065b6751.css",
+    "main.js": "/ketki-me/static/js/main.c4492e7b.js",
+    "static/js/787.a2cb61a6.chunk.js": "/ketki-me/static/js/787.a2cb61a6.chunk.js",
+    "static/media/java-logo.png": "/ketki-me/static/media/java-logo.7103944ef21cf0e09655.png",
+    "static/media/Csharp_Logo.png": "/ketki-me/static/media/Csharp_Logo.d0f6be622a2b58bb412f.png",
+    "static/media/spring-logo.jpg": "/ketki-me/static/media/spring-logo.a7736b0761c2496ae453.jpg",
+    "static/media/KetkiImage.jpg": "/ketki-me/static/media/KetkiImage.e34eb14c2818ab020cd1.jpg",
+    "static/media/sql.png": "/ketki-me/static/media/sql.1fe5d9061bd4b4468200.png",
+    "static/media/education-icon.svg": "/ketki-me/static/media/education-icon.0382ee79ad4e7fca9398da0e8fd7bae2.svg",
+    "static/media/github.svg": "/ketki-me/static/media/github.55ca2802304ddd5459e328e31e495a2a.svg",
+    "index.html": "/ketki-me/index.html",
+    "static/media/linkedin.svg": "/ketki-me/static/media/linkedin.a4464e908a89da7a3ef4b7349b7ec123.svg",
+    "main.065b6751.css.map": "/ketki-me/static/css/main.065b6751.css.map",
+    "main.c4492e7b.js.map": "/ketki-me/static/js/main.c4492e7b.js.map",
+    "787.a2cb61a6.chunk.js.map": "/ketki-me/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065b6751.css",
+    "static/js/main.c4492e7b.js"
+  ]
+}
