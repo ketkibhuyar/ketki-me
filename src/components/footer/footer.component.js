@@ -22,7 +22,7 @@ const Footer = () => {
       Created using react 💖
     </p>
     <div className='footer-download-resume'>
-      <button className='download-button' onClick={() => openLink('https://drive.google.com/file/d/1_NcQKm5HtsvF59JTjkVj2JkG8PWj5SdR/view?usp=share_link')}>
+      <button className='download-button' onClick={() => openLink('https://drive.google.com/file/d/123-CuF75Jr4XD7TZKfNtoN1rKNK3FuzI/view?usp=share_link')}>
         Resume
       </button>
     </div>
