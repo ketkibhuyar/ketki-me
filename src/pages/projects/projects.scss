@@ -1,7 +1,7 @@
 .projects-container {
   display: grid;
   grid-gap: 20px;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 .project-card {
@@ -26,7 +26,7 @@
 
   &:hover {
     color: #fafafa;
-    background: linear-gradient(135deg, #fff 0%, #1e539e 33%, #426bdf 66%, rgb(19 106 213 / 50%) 100%);
+    background: linear-gradient(135deg, #fff 0%, #1f62bf 33%, #496ccc 66%, rgba(108, 162, 228, 0.8) 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     background-size: 400% 400%;
     background-repeat: no-repeat;
@@ -36,7 +36,7 @@
     /* move up slightly and zoom in */
     box-shadow: 8px 28px 50px rgba(39, 44, 49, 0.07),
       1px 6px 12px rgba(39, 44, 49, 0.04);
-    transition: all 0.1s ease;
+    transition: all 0.3s ease;
     /* zoom in */
 
     .project-name {
@@ -82,4 +82,16 @@
 .project-advanced-details {
   display: flex;
   justify-content: space-between;
+}
+
+.social-image {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+
+.social-wrapper {
+  display: flex;
+  gap: 10px;
+  flex-direction: row-reverse;
 }
