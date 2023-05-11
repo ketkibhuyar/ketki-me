@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ketki-me/static/css/main.4d7c759e.css",
-    "main.js": "/ketki-me/static/js/main.28228864.js",
+    "main.js": "/ketki-me/static/js/main.8ae82b82.js",
     "static/js/787.a2cb61a6.chunk.js": "/ketki-me/static/js/787.a2cb61a6.chunk.js",
     "static/media/java-logo.png": "/ketki-me/static/media/java-logo.7103944ef21cf0e09655.png",
     "static/media/Csharp_Logo.png": "/ketki-me/static/media/Csharp_Logo.d0f6be622a2b58bb412f.png",
@@ -14,11 +14,11 @@
     "index.html": "/ketki-me/index.html",
     "static/media/linkedin.svg": "/ketki-me/static/media/linkedin.a4464e908a89da7a3ef4b7349b7ec123.svg",
     "main.4d7c759e.css.map": "/ketki-me/static/css/main.4d7c759e.css.map",
-    "main.28228864.js.map": "/ketki-me/static/js/main.28228864.js.map",
+    "main.8ae82b82.js.map": "/ketki-me/static/js/main.8ae82b82.js.map",
     "787.a2cb61a6.chunk.js.map": "/ketki-me/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d7c759e.css",
-    "static/js/main.28228864.js"
+    "static/js/main.8ae82b82.js"
   ]
 }
