@@ -34,12 +34,12 @@ const ProjectPage = () => {
                   ))}
                 </div>
                 <div class="social-wrapper">
-                  {websiteLink && <span onClick={() => openLink({ websiteLink })} >
+                  {websiteLink && <span onClick={() => openLink(websiteLink)} >
                     <img class="social-image" src={linkImage} alt=''></img>
                   </span>
                   }
 
-                  {githubLink && <span onClick={() => openLink({ githubLink })} href=''>
+                  {githubLink && <span onClick={() => openLink(githubLink)} href=''>
                     <img class="social-image" src={githubImage} alt=''
                     ></img>
                   </span> }
