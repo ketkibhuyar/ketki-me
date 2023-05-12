@@ -3,6 +3,7 @@ import springLogo from '../../assets/spring-logo.jpg';
 import javaLogo from '../../assets/java-logo.png';
 import sqlLogo from '../../assets/sql.png';
 import csharpLogo from '../../assets/Csharp_Logo.png';
+import angularLogo from '../../assets/angular-icon.svg';
 import "./home.scss";
 
 const HomePage = () => {
@@ -44,6 +45,11 @@ const HomePage = () => {
               <span>
                 <img
                   src= { sqlLogo }
+                />
+              </span>
+              <span>
+                <img
+                  src= { angularLogo }
                 />
               </span>
               <span>
