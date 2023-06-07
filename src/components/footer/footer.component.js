@@ -13,9 +13,6 @@ const Footer = () => {
         <span onClick={() => openLink('https://github.com/ketkibhuyar')}>
           <GithubLogo className='icon'/>
         </span>
-        <span onClick={() => openLink('https://www.linkedin.com/in/ketki-bhuyar-b14169177/')}>
-          <LinkedinLogo className='icon'/>
-        </span>
       </div>
     </div>
     <p className='footer-middle-msg'>
