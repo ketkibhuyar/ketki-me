@@ -7,7 +7,7 @@ import angularLogo from '../../assets/angular-icon.svg';
 import "./home.scss";
 
 const HomePage = () => {
-  const greeting = "🙏";
+  const greeting = "🙏 Hello 🙏";
 
   return (
     <>
@@ -19,7 +19,7 @@ const HomePage = () => {
         </div>
         <div className="intro-description">
           <div className="description-container">
-            <h2 className="description-title">{greeting} Hello {greeting}</h2>
+            <h2 className="description-title">{greeting}</h2>
             <p className="description-text">
             I am Ketki
             <br></br>
