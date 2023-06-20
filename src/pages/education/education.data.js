@@ -5,7 +5,7 @@ export const EducationData = [
     purpose: 'education',
     title: "PG-DAC",
     subtitle: "Sunbeam, Pune",
-    description: "Completed PG Diploma in Advanced Computing",
+    description: "Completed PG Diploma in Advanced Computing.",
     date: "Sep, 2022 - Feb, 2023",
   },
   {
@@ -13,7 +13,7 @@ export const EducationData = [
     purpose: 'education',
     title: "B.E (EE)",
     subtitle: "P.R. Pote Amravati",
-    description: "Completed B.E in Electrical engineering",
+    description: "Completed B.E in Electrical engineering.",
     date: "Aug, 2016 - Jun, 2019",
   }
   ,
@@ -22,7 +22,7 @@ export const EducationData = [
     purpose: 'education',
     title: "Diploma (EE)",
     subtitle: "G.P. Arvi",
-    description: "Completed Diploma in Electrical engineering",
+    description: "Completed Diploma in Electrical engineering.",
     date: "Aug, 2013 - Jun, 2016",
   }
 ];
